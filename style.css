@@ -1,0 +1,30 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: auto;
+    max-width: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    letter-spacing: 0.5rem;
+}
+
+header h3 {
+    letter-spacing: 0.75rem;
+}
+
+.header-info {
+    display: flex;
+}
+
+.header-other {
+    display: flex;
+    justify-content: space-around;
+}
