@@ -49,3 +49,7 @@ main div h3 {
 .bio {
     color: darkgray;
 }
+
+.def {
+    text-indent: 20%;
+}
