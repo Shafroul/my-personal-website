@@ -16,9 +16,6 @@ header h1 {
     letter-spacing: 0.5rem;
 }
 
-.header-info {
-    display: flex;
-}
 
 .header-other { 
     flex: 1;
