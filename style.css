@@ -16,7 +16,6 @@ header h1 {
     letter-spacing: 0.5rem;
 }
 
-
 .header-other { 
     flex: 1;
     display: flex;
@@ -28,11 +27,31 @@ header h1 {
     flex-grow: 0.5;
     display:flex;
     justify-content: space-around;
-    list-style: none;
-    border-radius: 32px;
-    white-space: nowrap;
-    background-color: white;
+    list-style: none; 
+}
+
+.header-another1 {
     border: 1px solid #dadce0;
+    border-radius: 32px;
+    white-space: nowrap; 
+}
+
+.header-another2 {
+    border: 1px solid #dadce0;
+    border-radius: 32px;
+    white-space: nowrap; 
+}
+
+.header-another3 {
+    border: 1px solid #dadce0;
+    border-radius: 32px;
+    white-space: nowrap; 
+}
+
+.header-another4 {
+    border: 1px solid #dadce0
+    border-radius: 32px;
+    white-space: nowrap; 
 }
 
 .proper-noun {
