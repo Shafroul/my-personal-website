@@ -16,15 +16,15 @@ header h1 {
     letter-spacing: 0.5rem;
 }
 
-header h3 {
-    letter-spacing: 0.75rem;
-}
-
 .header-info {
     display: flex;
 }
 
-.header-other {
+.header-other { 
+    flex: 1;
     display: flex;
     justify-content: space-around;
 }
+
+header section ul {
+    list-style: none;}
