@@ -41,3 +41,7 @@ header h1 {
 main div h3 {
     color: darkgreen;
 }
+
+.bio {
+    color: darkgray;
+}
