@@ -21,7 +21,5 @@ header h1 {
     flex: 1;
     display: flex;
     justify-content: space-around;
+    list-style: none;
 }
-
-header section ul {
-    list-style: none;}
