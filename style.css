@@ -34,6 +34,7 @@ header h1 {
 .proper-noun {
     font-style: italic;
     color: darkgrey;
+    font-size: small;
 }
 
 
