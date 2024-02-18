@@ -49,7 +49,10 @@ header h1 {
 }
 
 .header-another4 {
+    border-radius: 32px;
+    white-space: nowrap;
     border: 1px solid #dadce0
+    
 }
 
 .proper-noun {
