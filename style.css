@@ -34,31 +34,27 @@ header h1 {
     border: 1px solid #dadce0;
     border-radius: 32px;
     white-space: nowrap; 
-    padding: 0 12px;
-    padding-bottom: 0;
+    padding: 1em;
 }
 
 .header-another2 {
     border: 1px solid #dadce0;
     border-radius: 32px;
     white-space: nowrap; 
-    padding: 0 12px;
-    padding-bottom: 0;
+    padding: 1em;
 }
 
 .header-another3 {
     border: 1px solid #dadce0;
     border-radius: 32px;
     white-space: nowrap; 
-    padding: 0 12px;
-    padding-bottom: 0;
+    padding: 1em;
 }
 
 .header-another4 {
     border-radius: 32px;
     white-space: nowrap;
-    padding: 0 12px;
-    padding-bottom: 0;
+    padding: 1em;
     border: 1px solid #dadce0
 }
 
